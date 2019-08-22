@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.texto-lateral{
+
+    word-wrap: break-word;
+    width:5px;
+}
+
+.inputs {
+     margin: 5px;
+     padding: 5px;
+     border-radius: 10px;
+     border-collapse: collapse;
+     background-color: #2e6da4;
+     border-color: transparent;
+     text-align: center;
+     color: white;
+     width: 98%;
+ }
+
+
+.inputs2 {
+     border-radius: 10px;
+     border-collapse: collapse;
+     background-color: transparent;
+     border-color: transparent;
+     text-align: center;
+     color: white;
+
+ }
+.autoajustar{
+    padding: 3px;
+    margin: 3px;
+    width: 500px;
+    word-wrap: break-word;
+}
